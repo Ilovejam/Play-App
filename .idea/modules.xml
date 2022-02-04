@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Play-Videos-master-sources.iml" filepath="$PROJECT_DIR$/.idea/modules/Play-Videos-master-sources.iml" group="Play-Videos-Shared" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client.iml" filepath="$PROJECT_DIR$/.idea/modules/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/play-videos-master.iml" filepath="$PROJECT_DIR$/.idea/modules/play-videos-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/play-videos-master-build.iml" filepath="$PROJECT_DIR$/.idea/modules/play-videos-master-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server.iml" filepath="$PROJECT_DIR$/.idea/modules/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sharedJS.iml" filepath="$PROJECT_DIR$/.idea/modules/sharedJS.iml" group="Play-Videos-Shared" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sharedJVM.iml" filepath="$PROJECT_DIR$/.idea/modules/sharedJVM.iml" group="Play-Videos-Shared" />
+    </modules>
+  </component>
+</project>
