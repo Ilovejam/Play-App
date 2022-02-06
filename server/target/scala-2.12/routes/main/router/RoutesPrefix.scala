@@ -1,6 +1,6 @@
 // @GENERATOR:play-routes-compiler
-// @SOURCE:C:/Users/Lenovo/Desktop/Play-Videos-master/server/conf/routes
-// @DATE:Fri Feb 04 12:59:20 EET 2022
+// @SOURCE:C:/Users/Lenovo/Documents/GitHub/Play-Videos/server/conf/routes
+// @DATE:Fri Feb 04 15:44:39 EET 2022
 
 
 package router {
